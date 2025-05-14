@@ -1,3 +1,5 @@
+# Date: 14-05-2925
+# Register Number:212224230172
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
